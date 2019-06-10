@@ -1,0 +1,2 @@
+screen.o: screen.cc screen.h
+main.o: main.cc screen.h point.h
